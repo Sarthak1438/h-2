@@ -1,0 +1,29 @@
+body{
+    background-size:auto;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+background-color: white;
+    color: rgb(245, 245, 153);
+    width: 60px;
+    height: 30px;
+
+}
+
+canvas {
+    box-shadow: 10px 10px 10px whitesmoke;
+    border-radius: 10px;
+}
+#s{
+    background-color: white;
+    color: rgb(245, 245, 153);
+}
